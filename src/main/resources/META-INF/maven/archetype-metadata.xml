@@ -1,0 +1,22 @@
+<archetype-descriptor name="custom-archetype">
+
+    <requiredProperties>
+        <requiredProperty key="foo">
+            <defaultValue>bar</defaultValue>
+        </requiredProperty>
+    </requiredProperties>
+
+    <fileSets>
+    <fileSet filtered="true" packaged="true">
+        <directory>src/main/java</directory>
+        <includes>
+            <include>**/*.java</include>
+        </includes>
+    </fileSet>
+    </fileSets>
+
+    <modules>
+        <module name="sub-module"></module>
+    </modules>
+
+</archetype-descriptor>
