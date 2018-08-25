@@ -1,0 +1,11 @@
+# maven project
+target/
+mvnw
+mvn.cmd
+
+# idea project
+.idea/
+*.iml
+
+# filesystem
+.DS_Store
