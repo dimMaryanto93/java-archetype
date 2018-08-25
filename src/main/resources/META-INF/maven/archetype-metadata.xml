@@ -1,4 +1,4 @@
-<archetype-descriptor name="custom-archetype">
+<archetype-descriptor name="Spring Application">
     <fileSets>
         <fileSet filtered="true" packaged="true">
             <directory>src/main/java</directory>

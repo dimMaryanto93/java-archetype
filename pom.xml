@@ -4,7 +4,7 @@
   <groupId>com.maryanto.dimas.example</groupId>
   <artifactId>springweb-template</artifactId>
   <version>1.0</version>
-  <name>Archetype - springweb-template</name>
+  <name>Spring web Application</name>
   <url>http://maven.apache.org</url>
   <packaging>maven-archetype</packaging>
 
